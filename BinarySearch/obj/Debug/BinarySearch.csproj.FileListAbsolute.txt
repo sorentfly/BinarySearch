@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+c:\users\user\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HW\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HW\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HW\BinarySearch\obj\Debug\BinarySearch.pdb
